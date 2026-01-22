@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Neila Sadji | Full-Stack WordPress Developer
+# 👋 Hello! I'm Neila - WordPress Specialist
+
+**Full-Stack WordPress Developer | 5+ Years Experience | Performance Optimizer**
+
+I transform designs into fast, functional, and scalable WordPress websites. Specializing in custom theme/plugin development and WooCommerce solutions.
 
 📍 Algiers, Algeria | 🕒 UTC+1
 
