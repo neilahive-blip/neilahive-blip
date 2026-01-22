@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Neila Sadji | Full-Stack WordPress Developer
 
-<!--
-**neilahive-blip/neilahive-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Algiers, Algeria | 🕒 UTC+1
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **WordPress Specialization**
+- **Page Builders:** Elementor Pro, Gutenberg (Blocks), Divi
+- **Custom Development:** Custom Themes, Plugin Development, ACF 
+- **E-Commerce:** WooCommerce, Payment Gateways, Product Management
+- **Performance:** Core Web Vitals, Caching, Image Optimization
+- **Tools:** LocalWP, WP-CLI, Git, Composer
+
+### **Core Technologies**
+- **Frontend:** HTML5, CSS3/Sass, JavaScript (ES6+), jQuery, React Basics
+- **Backend:** PHP, MySQL, REST API, Custom Post Types
+- **Workflow:** Git, GitHub, VS Code, Figma/Adobe XD to WordPress
+
+## 💼 Professional Experience
+
+**Full-Stack WordPress Developer @ Hivdigit**
+- Developed 20+ custom WordPress themes from scratch
+- Built custom plugins and integrated third-party APIs
+- Optimized websites for performance (90+ PageSpeed scores)
+- Collaborated with design teams to implement responsive layouts
+
+## 🌐 Languages
+- **Arabic:** Native
+- **English:** Professional Proficiency
+- **French:** Professional Proficiency
+
+
